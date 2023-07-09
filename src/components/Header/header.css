@@ -1,0 +1,16 @@
+.pop_header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+    padding: 10px 20px 0 20px;
+  }
+  
+  .pop_header_title {
+    color: #1d232b;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 100%;
+    letter-spacing: -0.18px;
+  }
+  

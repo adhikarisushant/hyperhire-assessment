@@ -1,0 +1,25 @@
+.com_footer_container {
+    border-top: 1px solid #f7f8fa;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.com_comment_text_input {
+    width: 80%;
+    padding: 4px;
+    background-color: transparent;
+    border: 0px solid;
+    color: #919eb6;
+}
+
+.com_comment_text_input::placeholder {
+    color: #919eb6;
+    font-size: 12px;
+}
+
+.com_footer_container > p {
+    color: #919eb6;
+}

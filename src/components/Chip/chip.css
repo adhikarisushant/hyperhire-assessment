@@ -1,0 +1,19 @@
+.pop_chip {
+  padding: 0 10px;
+  border: 1px solid #ced3de;
+  border-radius: 100px;
+  box-sizing: border-box;
+  color: #5A6B87;
+  cursor: pointer;
+  display: inline-flex;
+  height: 28px;
+  min-width: 58px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  font-size: 15px;
+  font-weight: 600;
+  background-color: #F7F8FA;
+}
+  
